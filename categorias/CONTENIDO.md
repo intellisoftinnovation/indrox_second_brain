@@ -1,0 +1,71 @@
+# MOC: CONTENIDO
+
+**Total:** 65
+
+## Ideas
+
+- 🔲 [[ideas/LinkedIn Lead Magnet 'Diagnóstico gratuito de automatización en 30 min']] `alto`
+- 🔲 [[ideas/Serie LinkedIn 'Números Reales' métricas concretas de proyectos de Indrox]] `medio`
+- 🔲 [[ideas/Encuesta LinkedIn nativa 'Estado de la automatización en empresas peruanas 2026']] `medio`
+- 🔲 [[ideas/Andre como guest en podcasts de CEOs y emprendedores peruanosLATAM]] `medio`
+- 🔲 [[ideas/Carrusel LinkedIn 'Antes vs Después' flujo de proceso visual, no solo métricas]] `alto`
+- 🔲 [[ideas/Mini-curso por email de 5 días 'Automatiza un proceso esta semana']] `medio`
+- 🔲 [[ideas/LinkedIn Live mensual demo en vivo de sistema real con Q&A ante el ICP]] `alto`
+- 🔲 [[ideas/Video testimonial de clientes reales 60 segundos de prueba social que LinkedIn n]] `alto`
+- 🔲 [[ideas/LinkedIn Newsletter nativo semanal notificación push a TODOS los seguidores sin ]] `medio`
+- 🔲 [[ideas/Mapa Visual de Automatización por Sector el artefacto que el decisor lleva a su ]] `alto`
+- 🔲 [[ideas/Post de vulnerabilidad 'Autopsia de proyecto' el caso que salió mal y qué aprend]] `medio`
+- 🔲 [[ideas/Motor de reciclaje de contenido con IA 1 insight real → 5 activos en 30 minutos]] `alto`
+- 🔲 [[ideas/Serie 'ROI en números' 4 posts LinkedIn con casos reales de automatización anoni]] `medio`
+- 🔲 [[ideas/Serie LinkedIn 'Cuánto cuesta NO automatizar' un caso de industria por semana]] `alto`
+- 🔲 [[ideas/Calculadora pública 'ROI de automatización en 90 días' embebida en el sitio de I]] `alto`
+- 🔲 [[ideas/Serie 'Decisión en 48h' cómo un CEO resolvió un problema crítico con IA en dos d]] `alto`
+- 🔲 [[ideas/Thread LinkedIn 'Visité una operación de campo y encontré 7 procesos sin digital]] `alto`
+- 🔲 [[ideas/Post LinkedIn 'Le pregunté a 10 COO de mineras qué les quita el sueño — esto me ]] `alto`
+- 🔲 [[ideas/Segmento HiddenLayer 'Autopsia de proceso' desmonta un flujo real de un oyente e]] `alto`
+- 🔲 [[ideas/Audit en vivo en LinkedIn Andre diagnostica el proceso de un voluntario en comen]] `alto`
+- 🔲 [[ideas/Serie LinkedIn 'En la trinchera' documentar una semana real de implementación co]] `medio`
+- 🔲 [[ideas/Mini-serie LinkedIn 'El proceso que nadie audita' — 1 flujo roto por semana en u]] `medio`
+- 🔲 [[ideas/Mini-documental en LinkedIn 'Un día en la operación de un cliente antes y despué]] `alto`
+- 🔲 [[ideas/Serie LinkedIn 'El proceso que nadie audita' expone ineficiencias operativas en ]] `medio`
+- 🔲 [[ideas/Mapa visual 'Stack tecnológico real de una empresa LATAM 51-500' expone los bach]] `alto`
+- 🔲 [[ideas/Serie 'Error que le costó $X' — confesiones reales de operaciones en LATAM]] `alto`
+- 🔲 [[ideas/Benchmark de madurez digital por vertical post LinkedIn con infografía y CTA de ]] `medio`
+- 🔲 [[ideas/Serie LinkedIn 'Implementación en vivo' antesdespués real con datos de un client]] `alto`
+- 🔲 [[ideas/Mini-documental LinkedIn '1 semana en las operaciones de una empresa peruana' (s]] `alto`
+- 🔲 [[ideas/Hilo LinkedIn '5 alertas en tu operacion que significan que ya perdiste $50K est]] `alto`
+- 🔲 [[ideas/Post LinkedIn '3 KPIs que toda empresa de construcciónminería debería ver en tie]] `medio`
+- 🔲 [[ideas/Hilo LinkedIn 'Le pregunté a 10 Gerentes de Operaciones peruanos qué los quita e]] `medio`
+- 🔲 [[ideas/Carrusel LinkedIn 'Antes vs. Después' proceso real de un cliente Indrox en imáge]] `alto`
+- 🔲 [[ideas/Serie LinkedIn 'Cuánto cuesta no digitalizar' un número impactante por vertical ]] `alto`
+- 🔲 [[ideas/Mini-documental LinkedIn 'Un día en la operación de [cliente]' — 60 segundos, si]] `alto`
+- 🔲 [[ideas/Hilo LinkedIn 'Automaticé el reporte semanal de una empresa logística peruana — ]] `alto`
+- 🔲 [[ideas/Newsletter mensual 'Operaciones sin papel' un caso real de digitalización LATAM ]] `medio`
+- 🔲 [[ideas/Hilo LinkedIn 'El error de digitalización que le costó $X a una empresa peruana']] `medio`
+- 🔲 [[ideas/Serie LinkedIn 'Automatización en 48h' Andre documenta en vivo la implementación]] `alto`
+- 🔲 [[ideas/Post LinkedIn Le mostré nuestro sistema a un Gerente de Operaciones — su reacció]] `medio`
+- 🔲 [[ideas/Encuesta LinkedIn semanal con dilema operativo real para capturar ICP y alimenta]] `medio`
+- 🔲 [[ideas/Newsletter quincenal B2B para decisores 'Ops Intelligence by Indrox']] `medio`
+- 🔲 [[ideas/Post LinkedIn Lo que descubrimos auditando 10 empresas de logística en Perú]] `medio`
+- 🔲 [[ideas/Mini-documental LinkedIn 'Un día en la operación de [cliente]' grabado con celul]] `alto`
+- 🔲 [[ideas/Infografía Costo mensual de operar sin automatizar por vertical]] `medio`
+- 🔲 [[ideas/Thread LinkedIn 'El proyecto que casi me quiebra — lo que aprendimos en Indrox']] `medio`
+- 🔲 [[ideas/Benchmark público 'Índice de Madurez Operativa LATAM 2026']] `alto`
+- 🔲 [[ideas/Post LinkedIn 'La automatización que más ROI nos dio con un cliente de construcc]] `medio`
+- 🔲 [[ideas/Lead magnet Mapa de Automatización de 1 página por vertical para adjuntar en out]] `medio`
+- 🔲 [[ideas/Serie Antes y Después en LinkedIn transformación operativa real de un cliente In]] `medio`
+- 🔲 [[ideas/Mini-documental LinkedIn 'Un día con el COO de una minera que automatizó sus rep]] `alto`
+- 🔲 [[ideas/Meme pack operativo sectorial para LinkedIn]] `medio`
+- 🔲 [[ideas/Auditoría en vivo en HiddenLayer Andre diagnostica una operación real del ICP en]] `alto`
+- 🔲 [[ideas/Post LinkedIn 'El error que cometen el 90% de empresas LATAM al comprar software]] `medio`
+- 🔲 [[ideas/Serie LinkedIn 'Operación Destripada' Andre muestra cómo automatizaría un proces]] `alto`
+- 🔲 [[ideas/Video testimonial 60 segundos de cliente real Cómo automatizamos X en Y días par]] `alto`
+- 🔲 [[ideas/Hilo LinkedIn 'Automatizamos X empresa en 6 semanas — aquí el desglose semana a ]] `medio`
+- 🔲 [[ideas/Mini-documental LinkedIn Un día en la operación antesdespués con cliente real]] `alto`
+- 🔲 [[ideas/Post LinkedIn 'El proceso que ninguna empresa debería seguir haciendo en Excel e]] `medio`
+- 🔲 [[ideas/Newsletter breve 'Automatización en 5 minutos' para decisores C-level en LinkedI]] `medio`
+- 🔲 [[ideas/Episodio HiddenLayer con C-level de mineríalogística como caso de estudio vivo]] `alto`
+- 🔲 [[ideas/Serie LinkedIn 'Decisión de $0 que costó miles' errores de digitalización en cam]] `medio`
+- 🔲 [[ideas/Carrusel LinkedIn 'Software genérico vs. solución a medida para field services L]] `medio`
+- 🔲 [[ideas/Hilo LinkedIn '5 señales de que tu operación está lista para automatizarse (y no]] `medio`
+- 🔲 [[ideas/Video corto LinkedIn (60s) 'Le pregunté a un COO cómo reporta el avance de campo]] `alto`

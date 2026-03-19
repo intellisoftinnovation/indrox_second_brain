@@ -1,0 +1,104 @@
+# MOC: VENTAS
+
+**Total:** 98
+
+## Ideas
+
+- 🔲 [[ideas/Secuencia outbound para COOs de empresas logísticas en Lima]] `alto`
+- 🔲 [[ideas/Outreach LinkedIn para constructoras partes de campo digitales como entrada]] `alto`
+- 🔲 [[ideas/Campaña de reactivación de leads fríos con 'novedad' como gancho]] `medio`
+- 🔲 [[ideas/Invitar prospectos top al podcast HiddenLayer como guests]] `alto`
+- 🔲 [[ideas/Campaña de upsell a clientes actuales con propuesta 'siguiente paso' de NeuroCor]] `alto`
+- 🔲 [[ideas/Programa formal de referidos para clientes satisfechos]] `alto`
+- 🔲 [[ideas/Prospecting por señales de contratación empresas que publican cargos operativosT]] `alto`
+- 🔲 [[ideas/Video Loom personalizado como primer contacto en LinkedIn (en lugar de texto frí]] `alto`
+- 🔲 [[ideas/Desayuno ejecutivo presencial demos en vivo para 15 CEOsCOOs de Lima]] `alto`
+- 🔲 [[ideas/Outreach específico a CFOs y Gerentes Financieros como co-decisores del deal]] `alto`
+- 🔲 [[ideas/Outreach a decisores que acaban de asumir el cargo la ventana de los primeros 90]] `alto`
+- 🔲 [[ideas/Outreach a Gerentes de TI como campeones internos ellos venden hacia arriba por ]] `alto`
+- 🔲 [[ideas/Networking de guerrilla en EXCON, PERUMIN y ExpoLogística 100 conversaciones en ]] `alto`
+- 🔲 [[ideas/WhatsApp voice notes personales de Andre para prospectos warm que no convirtiero]] `alto`
+- 🔲 [[ideas/Ponencia en diplomados ejecutivos de ESANUPCPacífico 30 gerentes del ICP en una ]] `alto`
+- 🔲 [[ideas/Gifting físico pre-meeting a prospectos VIP el sobre que nadie tira]] `alto`
+- 🔲 [[ideas/Monitoreo SEACEOSCE contactar empresas ganadoras de contratos públicos en sus pr]] `alto`
+- 🔲 [[ideas/Social selling por comentarios visibilidad ante el ICP sin pitch ni outreach]] `medio`
+- 🔲 [[ideas/Auditoría competitiva como comprador fantasma identifica la brecha que cierra má]] `alto`
+- 🔲 [[ideas/LinkedIn Collaborative Articles TopVoice badge y distribución orgánica masiva fu]] `medio`
+- 🔲 [[ideas/Introducciones cálidas vía conexiones en común frío→caliente sin costo ni fricci]] `alto`
+- 🔲 [[ideas/Outreach a holdings y grupos empresariales una entrada, múltiples subsidiarias c]] `alto`
+- 🔲 [[ideas/LinkedIn Ads ABM calienta 200 cuentas target antes de que reciban tu DM]] `alto`
+- 🔲 [[ideas/Garantía de resultado explícita en el piloto 'si no automatiza el proceso en 2 s]] `alto`
+- 🔲 [[ideas/Llamada en frío warm como tercer toque voz directa al celular del decisor despué]] `alto`
+- 🔲 [[ideas/Speed-to-lead con IA responde todo lead inbound en menos de 5 minutos, 247]] `alto`
+- 🔲 [[ideas/Customer Advisory Board 5 clientes clave como embajadores estratégicos de Indrox]] `alto`
+- 🔲 [[ideas/Outbound a Fintech y Retail peruano sectores del ICP con dolor real y cero campa]] `alto`
+- 🔲 [[ideas/Primer SDR freelance delegar el volumen de outbound para que Andre cierre en vez]] `alto`
+- 🔲 [[ideas/Visitantes del perfil LinkedIn de Andre como leads calientes DM personalizado en]] `alto`
+- 🔲 [[ideas/Roundtable virtual de pares 8 COOs del mismo sector, 60 min, sin slides ni pitch]] `alto`
+- 🔲 [[ideas/Propuesta en video Loom el PDF que nadie lee reemplazado por 5 minutos que sí ab]] `alto`
+- 🔲 [[ideas/ABM hiperpersonalizado para top 15 cuentas mineras y constructoras]] `alto`
+- 🔲 [[ideas/WhatsApp voice note como cuarto toque para leads fríos de Apollo]] `alto`
+- 🔲 [[ideas/Pipeline de reactivación de propuestas perdidas reabre deals caídos con un insig]] `alto`
+- 🔲 [[ideas/Lista de 30 prospectos 'evento-triggered' empresas que acaban de levantar capita]] `alto`
+- 🔲 [[ideas/Campaña de reactivación de propuestas frías 3 toques para deals enviados hace 30]] `alto`
+- 🔲 [[ideas/Secuencia de cierre por etapas micro-compromisos para deals estancados en 'lo pi]] `medio`
+- 🔲 [[ideas/Prospección por licitaciones públicas recién adjudicadas el trigger de compra má]] `alto`
+- 🔲 [[ideas/LinkedIn Voice Notes para los 10 prospectos más calientes del pipeline]] `alto`
+- 🔲 [[ideas/Programa de referidos 'Introduce a un par' activa la red de clientes actuales co]] `medio`
+- 🔲 [[ideas/Trigger de expansión Care identificar clientes MRR con 3 meses activos y propone]] `alto`
+- 🔲 [[ideas/Secuencia de outbound por 'trigger de dolor estacional' ataca empresas en cierre]] `alto`
+- 🔲 [[ideas/Secuencia de 3 toques basada en noticias de expansión prospecting por 'growth tr]] `alto`
+- 🔲 [[ideas/Secuencia de outbound por 'señal de headcount' prospecta empresas que acaban de ]] `alto`
+- 🔲 [[ideas/Propuesta de piloto pagado por proceso único cierra al prospecto indeciso con ba]] `alto`
+- 🔲 [[ideas/Secuencia de outbound por 'señal de dolor público' prospecta empresas con reseña]] `medio`
+- 🔲 [[ideas/Prospecting por ganadores recientes de licitaciones estatales (PerúChile)]] `alto`
+- 🔲 [[ideas/Reactivar prospectos fríos con un 'informe sectorial personalizado' como excusa ]] `medio`
+- 🔲 [[ideas/LinkedIn Voice Note personalizado a 10 prospectos clave esta semana]] `alto`
+- 🔲 [[ideas/Outbound a empresas recien certificadas ISO 900145001 en LATAM ventana de digita]] `alto`
+- 🔲 [[ideas/Outbound a CFOs de empresas LATAM que acaban de cerrar ronda de inversión o leva]] `alto`
+- 🔲 [[ideas/Secuencia outbound a Jefes de Operaciones en empresas con flota vehicular 20 uni]] `alto`
+- 🔲 [[ideas/Secuencia de 3 toques a COOsGerentes de Operaciones que comentaron en posts de c]] `alto`
+- 🔲 [[ideas/Outbound trigger empresas que acaban de publicar vacante de Gerente TI  Transfor]] `alto`
+- 🔲 [[ideas/Secuencia outbound a Gerentes de Logística en empresas con expansión a provincia]] `alto`
+- 🔲 [[ideas/Secuencia outbound a Gerentes de Mantenimiento en empresas minerasindustriales]] `alto`
+- 🔲 [[ideas/Campaña outbound a CFOsGerentes Financieros en empresas con auditoría inminente]] `alto`
+- 🔲 [[ideas/Outbound a Gerentes de Proyectos en constructoras que ganaron licitaciones públi]] `alto`
+- 🔲 [[ideas/Roundtable Virtual Ejecutivo 8 prospectos warm + 1 cliente real en 45 minutos]] `alto`
+- 🔲 [[ideas/Outbound a empresas que acaban de obtener certificación ISO o premio sectorial]] `alto`
+- 🔲 [[ideas/Secuencia outbound a Superintendentes de Operaciones en empresas con más de 3 se]] `alto`
+- 🔲 [[ideas/Secuencia outbound a empresas que publicaron vacante de 'Jefe de Transformación ]] `alto`
+- 🔲 [[ideas/Outbound a empresas que publicaron licitación o RFP de software en portales públ]] `alto`
+- 🔲 [[ideas/Oferta de diagnóstico gratuito de 30 min por vertical para cerrar agenda esta se]] `alto`
+- 🔲 [[ideas/Campaña win-back a prospectos fríos de los últimos 6 meses con ángulo renovado p]] `alto`
+- 🔲 [[ideas/Outbound a CFOs con ángulo de reducción de costos operativos por vertical]] `alto`
+- 🔲 [[ideas/Sequence de cierre urgente para fin de Q1 oferta de firma antes del 31 de marzo]] `alto`
+- 🔲 [[ideas/Secuencia de cierre por WhatsApp para prospectos que ya tuvieron demo pero no fi]] `alto`
+- 🔲 [[ideas/Demo grabada autoservicio por vertical para primer toque outbound]] `alto`
+- 🔲 [[ideas/Secuencia outbound segmentada por dolor específico 'El costo oculto de X en tu o]] `alto`
+- 🔲 [[ideas/Trigger outbound por vacantes operativas en LinkedIn]] `alto`
+- 🔲 [[ideas/Auditoría Rápida de Eficiencia Operativa gratuita como entrada al pipeline]] `alto`
+- 🔲 [[ideas/Secuencia de reactivación para propuestas enviadas hace +30 días sin respuesta]] `alto`
+- 🔲 [[ideas/Secuencia outbound disparada por señal de expansión empresas que publican convoc]] `alto`
+- 🔲 [[ideas/Programa de referidos para clientes Care 1 mes gratis por lead que cierre]] `alto`
+- 🔲 [[ideas/Outbound por job change COOCTO nuevo en empresa ICP]] `alto`
+- 🔲 [[ideas/Secuencia de cierre urgente para fin de trimestre oferta puente Q1]] `alto`
+- 🔲 [[ideas/Secuencia de 3 toques para decisores que visitaron la web pero no convirtieron]] `alto`
+- 🔲 [[ideas/Outbound por señal de licitación ganada o funding entrada cuando hay presupuesto]] `alto`
+- 🔲 [[ideas/Reactivación de propuestas perdidas Q4 2025  Q1 2026]] `alto`
+- 🔲 [[ideas/Secuencia de LinkedIn DM para CFOs de mineríalogística post-cierre de Q1]] `alto`
+- 🔲 [[ideas/Cold outbound por dolor de cierre de mes secuencia para COOs en campo]] `alto`
+- 🔲 [[ideas/Lista de 30 decisores LATAM que hablaron de 'eficiencia operativa' en LinkedIn e]] `alto`
+- 🔲 [[ideas/Secuencia de cierre para deals en propuesta hace +30 días sin respuesta]] `alto`
+- 🔲 [[ideas/Outbound por cambio de liderazgo nuevo COOCTO en empresas del ICP]] `alto`
+- 🔲 [[ideas/Outbound por licitaciones ganadas empresas que acaban de firmar contratos públic]] `alto`
+- 🔲 [[ideas/Lista de prospectos por expansión de flota o planta minería y logística que anun]] `alto`
+- 🔲 [[ideas/Outbound por señal de contratación empresas LATAM que buscan analista de datos o]] `alto`
+- 🔲 [[ideas/Secuencia de 3 toques para reactivar leads fríos del Q4 2025]] `alto`
+- 🔲 [[ideas/Hit-list de 20 empresas con proyectos SAPERP en implementación activa]] `alto`
+- 🔲 [[ideas/Secuencia de primer contacto por WhatsApp Business para leads calientes sin resp]] `alto`
+- 🔲 [[ideas/Diagnóstico Express gratuito de un proceso manual como oferta de entrada para CO]] `alto`
+- 🔲 [[ideas/Campaña de referidos estructurada incentivo económico para clientes activos que ]] `alto`
+- 🔲 [[ideas/Secuencia outbound segmentada por señal de licitación pública empresas LATAM gan]] `alto`
+- 🔲 [[ideas/Secuencia outbound a CFOs y Gerentes Financieros con ángulo de reducción de cost]] `alto`
+- 🔲 [[ideas/Secuencia outbound a Gerentes de Operaciones en empresas constructoras que acaba]] `alto`
+- 🔲 [[ideas/Prospecting por 'nuevo en el cargo' decisores LATAM que cambiaron de empresa hac]] `alto`
