@@ -1,3 +1,9 @@
+---
+tags: [hiddenlayer, podcast, blueprint, experto]
+categoria: "[[categorias/PODCAST]]"
+invitado: "[[podcast/invitados/diego-salinas]]"
+---
+
 # 🎙️ HiddenLayer — Blueprint: Diego salinas
 
 ---

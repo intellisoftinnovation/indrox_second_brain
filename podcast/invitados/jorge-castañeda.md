@@ -1,3 +1,8 @@
+---
+tags: [hiddenlayer, podcast, invitado]
+categoria: "[[categorias/PODCAST]]"
+---
+
 # 👤 Jorge Castañeda
 
 - **Sector:** Tecnología / Software

@@ -1,3 +1,8 @@
+---
+tags: [hiddenlayer, podcast, invitado]
+categoria: "[[categorias/PODCAST]]"
+---
+
 # 👤 Diego salinas
 
 - **Sector:** Arte

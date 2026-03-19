@@ -1,3 +1,9 @@
+---
+tags: [hiddenlayer, podcast, blueprint, fundador]
+categoria: "[[categorias/PODCAST]]"
+invitado: "[[podcast/invitados/jorge-castañeda]]"
+---
+
 # 🎙️ HiddenLayer — Blueprint: Jorge Castañeda
 
 ---
