@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:ideas/",
+      "color": {
+        "a": 1,
+        "rgb": 14737632
+      }
+    },
+    {
+      "query": "tag:#area/finanzas OR path:finanzas/",
+      "color": {
+        "a": 1,
+        "rgb": 3907963
+      }
+    },
+    {
+      "query": "tag:#area/estrategia OR path:estrategia/",
+      "color": {
+        "a": 1,
+        "rgb": 16744272
+      }
+    },
+    {
+      "query": "tag:#area/objetivos OR path:objetivos/",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#area/clientes OR path:clientes/",
+      "color": {
+        "a": 1,
+        "rgb": 5614719
+      }
+    },
+    {
+      "query": "tag:#area/mercado OR path:mercado/",
+      "color": {
+        "a": 1,
+        "rgb": 9699539
+      }
+    },
+    {
+      "query": "tag:#area/equipo OR path:equipo/",
+      "color": {
+        "a": 1,
+        "rgb": 16753920
+      }
+    },
+    {
+      "query": "tag:#area/operaciones OR path:operaciones/",
+      "color": {
+        "a": 1,
+        "rgb": 8421504
+      }
+    },
+    {
+      "query": "tag:#area/reuniones OR path:reuniones/",
+      "color": {
+        "a": 1,
+        "rgb": 12303291
+      }
+    },
+    {
+      "query": "path:categorias/",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.6608853870521217,
+  "close": false
+}
