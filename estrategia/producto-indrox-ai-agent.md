@@ -108,7 +108,7 @@ Acceso por: WhatsApp, Slack, web panel, API
 ## Planes y precios
 
 ### 🥉 PLAN ARRANQUE
-**S/ 500 setup único + S/ 399/mes**
+**$130 setup único + $100/mo**
 *Para: CEOs/dueños de empresa 10–30 empleados que quieren empezar sin riesgo*
 
 **Incluido:**
@@ -128,7 +128,7 @@ Acceso por: WhatsApp, Slack, web panel, API
 ---
 
 ### 🥈 PLAN CHIEF OF STAFF ⭐ (recomendado)
-**S/ 1,500 setup único + S/ 899/mes**
+**$390 setup único + $230/mo**
 *Para: GMs/Directores de empresa 30–100 empleados con múltiples áreas*
 
 **Todo del Plan Arranque, más:**
@@ -147,7 +147,7 @@ Acceso por: WhatsApp, Slack, web panel, API
 ---
 
 ### 🥇 PLAN OPERATIONS SUITE
-**S/ 3,500–5,000 setup + S/ 1,999/mes**
+**$900–$1,300 setup + $500/mo**
 *Para: Directores generales / C-suite empresa 50–200 empleados*
 
 **Todo del Plan Chief of Staff, más:**
@@ -169,16 +169,16 @@ Acceso por: WhatsApp, Slack, web panel, API
 
 | Add-on | Precio |
 |---|---|
-| Integración adicional (más allá del plan) | +S/150 setup / +S/50/mes |
-| Usuario directivo adicional | +S/100/mes |
-| Agente especializado adicional por área | +S/300/mes |
-| Reentrenamiento con nuevos documentos | S/200/sesión |
-| Análisis y resumen de reunión grabada | S/50/reunión o S/200/mes ilimitado |
-| Taller capacitación equipo (2h) | S/250 |
-| Soporte prioritario (SLA 2h) | +S/300/mes |
+| Integración adicional (más allá del plan) | +$40 setup / +$13/mes |
+| Usuario directivo adicional | +$26/mo |
+| Agente especializado adicional por área | +$80/mo |
+| Reentrenamiento con nuevos documentos | $50/sesión |
+| Análisis y resumen de reunión grabada | $13/meeting o $50/mo ilimitado |
+| Taller capacitación equipo (2h) | $65 |
+| Soporte prioritario (SLA 2h) | +$80/mo |
 | Integración custom (API sin documentación) | Cotizar |
-| Voice bot (consultas por llamada) | S/500 setup / S/150/mes |
-| Monitor de competencia y mercado | S/200/mes |
+| Voice bot (consultas por llamada) | $130 setup / $40/mo |
+| Monitor de competencia y mercado | $50/mo |
 
 ---
 
@@ -225,7 +225,7 @@ Acceso por: WhatsApp, Slack, web panel, API
 - **Empresa:** 10–150 empleados, Lima (principalmente)
 - **Sector:** Servicios, comercio, importación, construcción boutique, agencias, clínicas, educación privada
 - **Situación:** Empresa con herramientas desconectadas, el CEO es el hub de información, tiene procesos repetitivos manuales
-- **Presupuesto:** Ya paga S/800–2,000/mes en herramientas de software; dispuesto a pagar lo equivalente a un practicante o asistente administrativo
+- **Presupuesto:** Ya paga $200–2,000/mes en herramientas de software; dispuesto a pagar lo equivalente a un practicante o asistente administrativo
 - **Psychographic:** Ambicioso, orientado a resultados, frustrado con la improductividad de su equipo, interesado en IA pero no sabe por dónde empezar
 
 ### Anti-ICP (rechazar)
@@ -255,7 +255,7 @@ Acceso por: WhatsApp, Slack, web panel, API
 | "¿Es seguro darle acceso a mis datos?" | El agente opera en tu infraestructura o en servidores con encriptación. Tus datos no salen de tu entorno. Cumplimos Ley 29733. |
 | "Mi equipo no va a usarlo" | No necesitan usarlo. Es para ti. El equipo no cambia cómo trabaja — tú recibes la información consolidada sin depender de que ellos te la manden. |
 | "¿Y si no funciona?" | Garantía de 30 días: si en el primer mes no ves valor, te devolvemos el costo mensual. |
-| "Es caro" | Cuesta menos que un practicante (S/1,000/mes) y trabaja 24/7. ¿Cuánto te cuesta no tener visibilidad de tu empresa? |
+| "Es caro" | Cuesta menos que un practicante ($265/mo) y trabaja 24/7. ¿Cuánto te cuesta no tener visibilidad de tu empresa? |
 
 ---
 

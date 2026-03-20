@@ -481,7 +481,7 @@ El roadmap vive en la cabeza del fundador. El feedback de usuarios no se procesa
 ---
 
 ### 🥉 PLAN STARTER — "El Ejecutivo Solo"
-**S/ 800 setup + S/ 499/mes**
+**$200 setup + $130/mo**
 
 *Para: Fundador/CEO de empresa 5–25 empleados que hace de todo*
 
@@ -496,7 +496,7 @@ El roadmap vive en la cabeza del fundador. El feedback de usuarios no se procesa
 ---
 
 ### 🥈 PLAN GROWTH — "El Equipo de 3"
-**S/ 2,000 setup + S/ 999/mes**
+**$500 setup + $250/mo**
 
 *Para: Empresa 25–75 empleados con CEO + área comercial + operaciones*
 
@@ -514,7 +514,7 @@ El roadmap vive en la cabeza del fundador. El feedback de usuarios no se procesa
 ---
 
 ### 🥇 PLAN EXECUTIVE — "El C-Suite Completo"
-**S/ 4,000 setup + S/ 1,999/mes**
+**$1,000 setup + $500/mo**
 
 *Para: Empresa 50–200 empleados con directivos por área*
 
@@ -535,7 +535,7 @@ El roadmap vive en la cabeza del fundador. El feedback de usuarios no se procesa
 ---
 
 ### 💎 PLAN ENTERPRISE — "Orquestación Total"
-**Desde S/ 8,000 setup + S/ 3,500/mes**
+**Desde $2,000 setup + $900/mo**
 
 *Para: Empresa 150+ empleados, holding o grupo empresarial*
 
@@ -555,19 +555,19 @@ El roadmap vive en la cabeza del fundador. El feedback de usuarios no se procesa
 
 | Add-on | Precio |
 |---|---|
-| Agente adicional (más allá del plan) | S/ 400/mes |
-| Agente CLO (Legal) | S/ 300/mes |
-| Agente CTO (Tecnología) | S/ 300/mes |
-| Agente CPO (Producto) | S/ 300/mes |
-| Usuario directivo adicional | S/ 80/mes |
+| Agente adicional (más allá del plan) | $100/mo |
+| Agente CLO (Legal) | $80/mo |
+| Agente CTO (Tecnología) | $80/mo |
+| Agente CPO (Producto) | $80/mo |
+| Usuario directivo adicional | $20/mo |
 | Integración custom (API sin docs) | Cotizar |
-| Análisis de reuniones grabadas (ilimitado) | S/ 200/mes |
-| Taller de capacitación (2h por área) | S/ 300 |
-| Reentrenamiento del agente con nuevos docs | S/ 200/sesión |
-| Monitor de competencia (alertas sector) | S/ 150/mes |
-| Voice bot (consultas por llamada) | S/ 500 setup / S/ 150/mes |
-| Dashboard BI nativo (Looker Studio) | S/ 800 setup / S/ 200/mes |
-| Soporte prioritario SLA 2h | + S/ 400/mes |
+| Análisis de reuniones grabadas (ilimitado) | $50/mo |
+| Taller de capacitación (2h por área) | $80 |
+| Reentrenamiento del agente con nuevos docs | $50/session |
+| Monitor de competencia (alertas sector) | $40/mo |
+| Voice bot (consultas por llamada) | $130 setup / $40/mo |
+| Dashboard BI nativo (Looker Studio) | $200 setup / $50/mo |
+| Soporte prioritario SLA 2h | + $100/mo |
 
 ---
 
@@ -626,13 +626,13 @@ El roadmap vive en la cabeza del fundador. El feedback de usuarios no se procesa
 
 | Plan | Clientes | MRR/cliente | MRR Total |
 |---|---|---|---|
-| Starter | 10 | S/ 499 | S/ 4,990 |
-| Growth | 6 | S/ 999 | S/ 5,994 |
-| Executive | 3 | S/ 1,999 | S/ 5,997 |
-| Enterprise | 1 | S/ 3,500 | S/ 3,500 |
-| **Total** | **20** | — | **S/ 20,481/mes** (~$5,400 USD) |
+| Starter | 10 | $130 | $1,300 |
+| Growth | 6 | $250 | $1,560 |
+| Executive | 3 | $500 | $1,560 |
+| Enterprise | 1 | $900 | $900 |
+| **Total** | **20** | — | **$5,400/mes** (~$5,400 USD) |
 
-> A 20 clientes en 12 meses: **S/ 245,772/año** solo en suscripciones + setups acumulados
+> A 20 clientes en 12 meses: **$64,700/año** solo en suscripciones + setups acumulados
 
 ---
 

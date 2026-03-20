@@ -13,7 +13,7 @@ Tagline: *"El primer empleado que trabaja 24/7, no se enferma, y no pide aumento
 
 1. **Cementerio de WhatsApps** — 80–150 mensajes/día, 2–3h perdidas siendo el hub de todo
 2. **Reportes que llegan tarde** — "¿Cómo vamos?" → cadena de llamadas → Excel a las 5pm
-3. **SUNAT y compliance manual** — miedo constante a multas (50–100% de UIT = S/2,575–5,150)
+3. **SUNAT y compliance manual** — miedo constante a multas (50–100% de UIT = $680–5,150)
 4. **Cobranzas y proveedores perdidos** — seguimiento en la cabeza del dueño, sin alertas
 
 ---
@@ -54,9 +54,9 @@ El agente pregunta a cada miembro del equipo el viernes a las 4pm. El lunes a la
 ## Modelo de precios
 
 **Base:** Setup Fee + Suscripción Mensual Fija (no por usuario, no por uso)
-**Justificación:** El CEO peruano quiere monto fijo, skin in the game con setup, y comparar vs practicante (S/800–1,200/mes).
+**Justificación:** El CEO peruano quiere monto fijo, skin in the game con setup, y comparar vs practicante ($200–1,200/mes).
 
-### 🥉 ASISTENTE EJECUTIVO — S/500 setup / S/399/mes (~$105)
+### 🥉 ASISTENTE EJECUTIVO — $130 setup / $100/mo (~$105)
 
 **Target:** CEO empresa 10–30 empleados, sin equipo IT, primera vez con automatización.
 
@@ -72,7 +72,7 @@ El agente pregunta a cada miembro del equipo el viernes a las 4pm. El lunes a la
 
 ---
 
-### 🥈 CHIEF OF STAFF AI ⭐ — S/1,500 setup / S/899/mes (~$235)
+### 🥈 CHIEF OF STAFF AI ⭐ — $390 setup / $230/mo (~$235)
 
 **Target:** GM empresa 30–100 empleados, jefes de área, herramientas desconectadas.
 
@@ -89,7 +89,7 @@ El agente pregunta a cada miembro del equipo el viernes a las 4pm. El lunes a la
 
 ---
 
-### 🥇 OPERATIONS INTELLIGENCE SUITE — S/3,500–5,000 setup / S/1,999/mes (~$525)
+### 🥇 OPERATIONS INTELLIGENCE SUITE — $900–$1,300 setup / $500/mo (~$525)
 
 **Target:** Empresa 50–200 empleados, CEO ambicioso, múltiples sistemas desconectados.
 
@@ -108,9 +108,9 @@ El agente pregunta a cada miembro del equipo el viernes a las 4pm. El lunes a la
 ## Proyección MRR
 | Escenario | Clientes | MRR |
 |---|---|---|
-| Conservador | 3+3+1 | ~S/5,394 (~$1,420) |
-| Moderado | 8+6+2 | ~S/12,384 (~$3,259) |
-| Optimista año 2 | 15+12+5 | ~S/26,770 (~$7,045) |
+| Conservador | 3+3+1 | ~$1,420 (~$1,420) |
+| Moderado | 8+6+2 | ~$3,260 (~$3,259) |
+| Optimista año 2 | 15+12+5 | ~$7,045 (~$7,045) |
 
 ---
 
