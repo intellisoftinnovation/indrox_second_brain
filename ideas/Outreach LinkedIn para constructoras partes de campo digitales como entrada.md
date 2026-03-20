@@ -3,7 +3,8 @@
 **Categoría:** #ventas
 **Fecha:** 2026-03-16 23:04
 **Impacto:** alto
-**Estado:** pendiente
+**Estado:** ✅ aceptado
+**Aprobado:** 2026-03-20
 
 ## Descripción
 
