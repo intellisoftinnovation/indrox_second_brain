@@ -3,7 +3,8 @@
 **Categoría:** #marketing
 **Fecha:** 2026-03-17 20:20
 **Impacto:** alto
-**Estado:** pendiente
+**Estado:** ✅ aceptado
+**Aprobado:** 2026-03-20
 
 ## Descripción
 
