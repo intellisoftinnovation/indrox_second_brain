@@ -6,10 +6,6 @@ Notas y acuerdos de reuniones estratégicas.
 
 ## Secciones
 
-- [[reuniones/Weekly Reviews]] — Revisión semanal de métricas
-- [[reuniones/Reuniones con Clientes]] — Notas de discovery y follow-up
-- [[reuniones/Reuniones de Equipo]] — Decisiones internas
-- [[reuniones/Board y Advisors]] — Sesiones estratégicas externas
 
 ## Plantilla de Reunión
 
@@ -30,6 +26,3 @@ Notas y acuerdos de reuniones estratégicas.
 ```
 
 ## Notas Relacionadas
-
-- [[objetivos/OKRs 2026]]
-- [[clientes/Pipeline Comercial]]

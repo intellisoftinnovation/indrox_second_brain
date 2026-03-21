@@ -6,12 +6,6 @@ Estrategia de crecimiento y posicionamiento de Indrox.
 
 ## Documentos Clave
 
-- [[estrategia/Plan Estratégico 2026]]
-- [[estrategia/ICP y Segmentación]]
-- [[estrategia/Propuesta de Valor por Vertical]]
-- [[estrategia/Competitive Intelligence]]
-- [[estrategia/Go-to-Market LATAM]]
-- [[estrategia/Líneas de Negocio]]
 
 ## Líneas de Negocio
 
@@ -33,6 +27,4 @@ Estrategia de crecimiento y posicionamiento de Indrox.
 
 ## Notas Relacionadas
 
-- [[objetivos/OKRs 2026]]
-- [[mercado/ICP Profiles]]
 - [[finanzas/INDEX]]

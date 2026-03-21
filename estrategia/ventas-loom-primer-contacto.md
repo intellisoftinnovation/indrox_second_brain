@@ -2,7 +2,7 @@
 tags: [ventas, outreach, loom, aceptado]
 estado: "✅ Aceptado"
 aprobado: 2026-03-20
-idea: "[[ideas/Video Loom personalizado como primer contacto en LinkedIn (en lugar de texto frí)]]"
+idea: "[[ideas/Video Loom personalizado como primer contacto en LinkedIn (en lugar de texto frí]]"
 ---
 
 # 🎥 Video Loom como Primer Contacto en LinkedIn

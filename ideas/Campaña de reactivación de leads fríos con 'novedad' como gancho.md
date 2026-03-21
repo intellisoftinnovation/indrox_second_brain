@@ -15,11 +15,3 @@ El pipeline pasado acumula prospectos que dijeron 'no por ahora' por presupuesto
 1. Sacar del CRM todos los leads con estado 'perdido / no por ahora / sin respuesta' de los últimos 6-12 meses. Segmentar en dos grupos: construcción/logística y otros sectores.
 2. Redactar email de reactivación de 5 líneas: mencionar algo específico de la conversación anterior + novedad concreta ('lanzamos una versión de entrada de BuildPro a $6K que varias constructoras implementaron en 3 semanas') + CTA de 15 min de llamada.
 3. Lanzar a 30-50 contactos esta semana vía Instantly. Meta realista: 3-5 respuestas, 1-2 reuniones agendadas.
-
-## Ideas Relacionadas
-
-- [[Secuencia outbound para COOs de empresas logísticas en Lima]]
-- [[Outreach LinkedIn para constructoras partes de campo digitales como entrada]]
-- [[Invitar prospectos top al podcast HiddenLayer como guests]]
-- [[Campaña de upsell a clientes actuales con propuesta 'siguiente paso' de NeuroCor]]
-- [[Programa formal de referidos para clientes satisfechos]]

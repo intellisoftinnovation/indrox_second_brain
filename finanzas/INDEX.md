@@ -6,11 +6,6 @@ Resúmenes financieros y contables de Indrox.
 
 ## Secciones
 
-- [[finanzas/Resumen Financiero Mensual]] — P&L mensual por línea de negocio
-- [[finanzas/Revenue Tracker 2026]] — Seguimiento del objetivo $200K USD
-- [[finanzas/Pipeline Financiero]] — Deals activos y forecast
-- [[finanzas/Costos Operativos]] — Estructura de costos Indrox
-- [[finanzas/MRR Care]] — Ingresos recurrentes mensuales
 
 ## Métricas Clave
 
@@ -22,6 +17,3 @@ Resúmenes financieros y contables de Indrox.
 | Deals cerrados | — | — |
 
 ## Notas Relacionadas
-
-- [[estrategia/Plan Estratégico 2026]]
-- [[objetivos/OKRs 2026]]
